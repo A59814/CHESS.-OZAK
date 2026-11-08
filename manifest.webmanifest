@@ -1,0 +1,20 @@
+{
+  "id": "/ozak-chess",
+  "name": "CHESS OZAK",
+  "short_name": "OZAK",
+  "description": "Play chess offline against bots, solve puzzles and track your rating.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e1330",
+  "theme_color": "#0e1330",
+  "lang": "en",
+  "dir": "auto",
+  "categories": ["games", "education"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
